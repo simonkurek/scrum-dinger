@@ -8,5 +8,5 @@ https://developer.apple.com/tutorials/app-dev-training/creating-a-card-view
 
 > Creating a Card View
 
->> Customize the Label Size
+>> Customize the Label Sized
 

@@ -2,11 +2,11 @@
 
 ## App tutorial website
 
-https://developer.apple.com/tutorials/app-dev-training/creating-a-card-view
+https://developer.apple.com/tutorials/app-dev-training/displaying-data-in-a-list?language=swift
 
 ## Actuall progress in app
 
-> Creating a Card View
+> Displaying Data in a List
 
->> Customize the Label Sized
+>> Introduction
 
